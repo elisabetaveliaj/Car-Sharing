@@ -8,7 +8,7 @@ A car-sharing company was facing challenges related to poor customer satisfactio
 
 Data Analysis
 Process
-- Data Cleaning: The provided data file (`request_data.json`) was cleaned using Python and the Elasticsearch client. Invalid errors such as trips with identical start and end times or locations, and unrealistic trips based on average speed were removed.
+- Data Cleaning: The provided data file was cleaned using Python and the Elasticsearch client. Invalid errors such as trips with identical start and end times or locations, and unrealistic trips based on average speed were removed.
 - Visualization: The cleaned data was visualized to analyze yearly and daily demand patterns in 2023.
 
 Daily Demand Analysis
