@@ -1,4 +1,4 @@
-# Car Sharing Company Data Analysis and Optimization
+# Case study: Car Sharing Company; Data Analysis and Optimization
 
 Overview
 This repository contains the code and documentation for the data analysis and optimization project carried out as part of the Master's program Technology and Operations Management course: Data Analysis and Programming for Operations Management.
